@@ -1,1 +1,1 @@
-# php-learning
+Demo for learning and testing PHP (Laracasts & PHP Docs)
